@@ -1,0 +1,53 @@
+h2{
+    border-top: 1px solid red;
+  border-right: 1px solid red;
+  border-bottom: 1px solid red;
+  border-left: 1px solid red;
+  color: blue;
+}
+
+.tabla{
+    border-top: 1px solid red; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: px;
+   
+}
+
+body{
+  background-image: url(	);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  font-family: 'cursive';
+  background-attachment: fixed;
+}
+
+h2{
+  padding: 4px;
+}
+
+body{
+  background-image: url(https://i.pinimg.com/originals/43/89/a8/4389a81f2761df951f772bb51968d7d9.gif);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  font-family: 'cursive';
+  font-size: 25px;
+  background-attachment: fixed;
+}
+
+label{
+  font-family: cursive;
+  font-size: 20px;
+  color: black;
+}
+
+img{
+  width: 95px;
+  height: 90px;
+}
+
+h1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 38px;
+  position: center;
+  letter-spacing: normal;
+}

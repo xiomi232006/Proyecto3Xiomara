@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://a.rgbimg.com/users/x/xy/xymonau/600/oyWxNdw.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    font-family: 'Roboto',sans-serif;
+    background-attachment: fixed;
+}
+
+button{
+    color: rgb(62, 214, 16);
+    width: 250px;
+    height: 250px;
+    border-top-width: 10px;
+    border: 1px solid black;
+}
+
+li{
+    font-size: 18px;
+}
+
+ol{
+    font-size: 23px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 33px;
+    color: rgb(8, 195, 241);
+    text-shadow: 1px 1px #fff;
+}

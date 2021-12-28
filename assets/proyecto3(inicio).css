@@ -1,0 +1,33 @@
+body{
+    background-image: url(https://a.rgbimg.com/users/x/xy/xymonau/600/oyWxNdw.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    font-family: 'Roboto',sans-serif;
+    background-attachment: fixed;
+}
+
+ ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    float: left;
+}
+
+.input-icono{
+    padding: 0;
+}
+
+.nav-hide:hover{
+    background-image: radial-gradient(circle at 50% 1%, #aef4c5 0, #9cedc1 16.67%, #87e4bc 33.33%, #6cd8b4 50%, #4dccad 66.67%, #24c3aa 83.33%, #00bba9 100%);
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color: rgb(226, 171, 19);
+    text-shadow: 1px 1px #fff;
+}
+
